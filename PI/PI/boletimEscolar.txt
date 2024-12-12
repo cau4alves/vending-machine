@@ -1,0 +1,56 @@
+====== Boletim Escolar ======
+Professor: Dyego
+Unidade Curricular: BCD
+Turma: Wolf
+
+Aluno: Felipe
+Nota 1: 60
+Nota 2: 50
+Nota 3: 90
+Nota 4: 100
+Faltas: 10
+Média Final: 75,0
+Situação: Reprovado
+
+Aluno: Cauã
+Nota 1: 40
+Nota 2: 50
+Nota 3: 60
+Nota 4: 70
+Faltas: 10
+Média Final: 55,0
+Situação: Reprovado
+
+Aluno: Luis
+Nota 1: 60
+Nota 2: 70
+Nota 3: 80
+Nota 4: 90
+Faltas: 10
+Média Final: 75,0
+Situação: Reprovado
+
+Aluno: João
+Nota 1: 40
+Nota 2: 50
+Nota 3: 60
+Nota 4: 70
+Faltas: 10
+Média Final: 55,0
+Situação: Reprovado
+
+Aluno: Pedro
+Nota 1: 30
+Nota 2: 40
+Nota 3: 50
+Nota 4: 60
+Faltas: 10
+Média Final: 45,0
+Situação: Reprovado
+
+Média geral da turma: 61,0
+Alunos acima da média geral: 2
+Alunos abaixo da média geral: 3
+Aluno com maior média: Felipe
+Aluno com menor média: Pedro
+Melhor aluno: Felipe com média 75,0
